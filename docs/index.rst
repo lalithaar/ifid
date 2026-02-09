@@ -15,6 +15,8 @@ The **Indian Food Informatics Data (IFID)** initiative is a research project con
 
 As a **Digital Public Infrastructure (DPI)** project, IFID provides the architectural foundation necessary to enable interoperability between consumers, regulators, and industry. All non sensitive core datasets, schemas, and mapping logics are to be released openly to foster a transparent and efficient food data ecosystem.
 
+The framework maintains a position of analytical neutrality, functioning strictly as a value-agnostic infrastructure layer designed to facilitate systemic coordination rather than serve as a mechanism for qualitative judgment or regulatory enforcement.
+
 The Current Stance
 ==================
 
